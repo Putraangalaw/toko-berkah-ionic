@@ -12,13 +12,14 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@ionic/core": "^7.8.6",
     "@ionic/vue": "^7.0.0",
     "@ionic/vue-router": "^7.0.0",
     "@vueuse/core": "^10.9.0",
     "axios": "^1.6.8",
     "ionicons": "^7.0.0",
-    "vue": "^3.3.0",
-    "vue-router": "^4.2.0"
+    "vue": "^3.4.33",
+    "vue-router": "^4.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-legacy": "^5.0.0",
