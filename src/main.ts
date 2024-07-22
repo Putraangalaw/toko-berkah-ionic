@@ -56,7 +56,7 @@ axios.get('auth')
 
     }).finally(() => {
 
-      router.isReady().then()) => {
+      router.isReady().then() => {
         app.mount('#app');
       });
 
